@@ -6,8 +6,8 @@ My name is **Juhong Park**.
 
 I am currently pursuing a combined M.S./Ph.D. degree at SungKyunKwan University, under the guidance of Professor Jong Hwan Ko in the SKKU IRIS Lab.
 
-My research interests are:
--Efficient DNN accelerators based on digital compute-in-memory (CIM)
+My research interests are:  
+-Efficient DNN accelerators based on digital compute-in-memory (CIM)  
 -Various on-device machine learning techniques that operate under tight resource constraints
 
 # **Education**
