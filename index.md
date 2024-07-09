@@ -10,6 +10,7 @@ My research interests are:
 - Efficient DNN accelerators based on digital compute-in-memory (CIM)  
 - Various on-device machine learning techniques that operate under tight resource constraints
 
+
 # **Education**
 ### Ph.D. in Electrical and Computer Engineering   
 SungKyunKwan University (2023-Present)
