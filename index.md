@@ -11,7 +11,7 @@ My research interests are:
 - various on-device machine learning techniques
 
 # **Education**
-B.S. in Electronic and Electrical Engineering 
+B.S. in Electronic and Electrical Engineering   
 SungKyunKwan University (2012-2015)
 
 # **Experience**
