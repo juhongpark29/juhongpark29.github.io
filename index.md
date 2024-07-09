@@ -8,7 +8,7 @@ I am currently pursuing a combined M.S./Ph.D. degree at SungKyunKwan University,
 
 My research interests are:
 - digital compute-in-memory (CIM) based efficient DNN accelerators
-- various on-device machine learning techniques
+- various on-device machine learning techniques to operate under tight resource constraints
 
 # **Education**
 ### B.S. in Electronic and Electrical Engineering   
