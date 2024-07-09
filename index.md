@@ -12,12 +12,12 @@ My research interests are:
 
 
 # **Education**
-### Ph.D. in Electrical and Computer Engineering   
+**Ph.D. in Electrical and Computer Engineering**   
 SungKyunKwan University (2023-Present)
-### B.S. in Electronic and Electrical Engineering   
+**B.S. in Electronic and Electrical Engineering**   
 SungKyunKwan University (2012-2015)
 
 # **Experience**
-### Samsung Electronics
+**Samsung Electronics**
 - Memory Devision
 - DRAM Quality Assurance (QA) Group (2015-2018)
