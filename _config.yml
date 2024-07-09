@@ -21,10 +21,7 @@ author: Juhong Park
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://iris.skku.edu/"
+  IRIS Lab.: "https://iris.skku.edu/"
 
 ################
 # --- Logo --- #
