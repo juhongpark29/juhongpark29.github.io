@@ -7,7 +7,7 @@ My name is **Juhong Park**.
 
 I am currently pursuing a combined M.S/Ph.D. degree in the Department of Electrical and computer engineering at SungKyunKwan University.  
 
-My research interest are:
+My research interests are:
 - digital compute-in-memory (CIM) based efficient DNN accelerators
 - various on-device machine learning techniques
 
@@ -21,3 +21,8 @@ Korean Artificial Intelligence Association (CKAIA), 2023.
 [C1] KARS: Kernel-Grouping Aided Row-Skipping for SDK-based Weight Compression in PIM Arrays   
 **Juhong Park**, Johnny Rhe, Jong Hwan Ko  
 IEEE International Symposium on Circuits and Systems (ISCAS), 2024.
+
+# **Experience**
+Samsung Electronics
+- Memory devision
+- DRAM Quality Assurance (QA) Group
