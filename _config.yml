@@ -20,7 +20,7 @@ author: Juhong Park
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Publications: "aboutme"
   IRIS Lab.: "https://iris.skku.edu/"
 
 ################
@@ -95,7 +95,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
