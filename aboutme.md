@@ -4,10 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Juhong Park. 
+I am currently pursuing a combined M.S/Ph.D. degree in the Department of Electrical and computer engineering at SungKyunKwan University. 
+My research interest lies primarily in
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- processing-in-memory(PIM) based efficient DNN accelerators
+- various on-device machine learning techniques
 
 What else do you need?
 
