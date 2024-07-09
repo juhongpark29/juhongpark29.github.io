@@ -2,7 +2,7 @@
 layout: home
 title: About Me
 ---
-My name is Juhong Park. 
+My name is **Juhong Park**. 
 
 I am currently pursuing a combined M.S/Ph.D. degree in the Department of Electrical and computer engineering at SungKyunKwan University.  
 
