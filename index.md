@@ -9,3 +9,8 @@ I am currently pursuing a combined M.S/Ph.D. degree in the Department of Electri
 My research interests are:
 - digital compute-in-memory (CIM) based efficient DNN accelerators
 - various on-device machine learning techniques
+
+# **Experience**
+Samsung Electronics
+- Memory devision
+- DRAM Quality Assurance (QA) Group
