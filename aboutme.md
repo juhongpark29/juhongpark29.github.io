@@ -13,7 +13,7 @@ My research interest are:
 
 ## **Awards**
 #### **[A1] Best Paper Award**   
-##### **Juhong Park**, Johnny Rhe and Jong Hwan Ko<\BR>
+**Juhong Park**, Johnny Rhe and Jong Hwan Ko
 Korean Artificial Intelligence Association (CKAIA), 2023.
 
 ## **Publications**
