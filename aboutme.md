@@ -12,8 +12,3 @@ Korean Artificial Intelligence Association (CKAIA), 2023.
 [C1] KARS: Kernel-Grouping Aided Row-Skipping for SDK-based Weight Compression in PIM Arrays   
 **Juhong Park**, Johnny Rhe, Jong Hwan Ko  
 IEEE International Symposium on Circuits and Systems (ISCAS), 2024.
-
-# **Experience**
-Samsung Electronics
-- Memory devision
-- DRAM Quality Assurance (QA) Group
