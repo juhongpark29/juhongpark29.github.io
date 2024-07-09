@@ -16,7 +16,7 @@ My research interest are:
 Korean Artificial Intelligence Association (CKAIA), 2023.
 
 ### **Publications**
-#### Conference Papers
+#### **Conference Papers**
 **[C1] KARS: Kernel-Grouping Aided Row-Skipping for SDK-based Weight Compression in PIM Arrays**
 **Juhong Park**, Johnny Rhe, Jong Hwan Ko
 IEEE International Symposium on Circuits and Systems (ISCAS), 2024.
