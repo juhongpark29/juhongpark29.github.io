@@ -18,5 +18,5 @@ SungKyunKwan University (2012-2015)
 
 # **Experience**
 ### Samsung Electronics
-- Memory devision
+- Memory Devision
 - DRAM Quality Assurance (QA) Group (2015-2018)
