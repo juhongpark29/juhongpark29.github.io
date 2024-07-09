@@ -1,6 +1,6 @@
 ---
 layout: home
-title: My website
+title: About Me
 ---
 My name is Juhong Park. 
 
