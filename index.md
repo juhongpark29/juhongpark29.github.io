@@ -11,6 +11,8 @@ My research interests are:
 - various on-device machine learning techniques to operate under tight resource constraints
 
 # **Education**
+### Ph.D. in Electrical and Computer Engineering   
+SungKyunKwan University (2023-Present)
 ### B.S. in Electronic and Electrical Engineering   
 SungKyunKwan University (2012-2015)
 
