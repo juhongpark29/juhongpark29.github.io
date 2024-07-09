@@ -11,15 +11,15 @@ My research interests are:
 - various on-device machine learning techniques
 
 # **Education**
-B.S. in Electronic and Electrical Engineering   
+## B.S. in Electronic and Electrical Engineering   
 SungKyunKwan University (2012-2015)
 
 # **Experience**
-Samsung Electronics
+## Samsung Electronics
 - Memory devision
 - DRAM Quality Assurance (QA) Group
 
 # **Awards**
-[A1] Best Paper Award   
+## [A1] Best Paper Award   
 **Juhong Park**, Johnny Rhe, and Jong Hwan Ko   
 Korean Artificial Intelligence Association (CKAIA), 2023.
