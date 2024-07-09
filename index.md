@@ -19,4 +19,4 @@ SungKyunKwan University (2012-2015)
 
 # **Experience**
 **Samsung Electronics**   
-DRAM Quality Assurance (QA) Group, Memory Devision (2015-2018)
+DRAM Quality Assurance (QA) Group, Memory Division (2015-2018)
