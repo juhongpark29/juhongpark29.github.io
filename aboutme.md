@@ -2,10 +2,6 @@
 layout: page
 title: Publications
 ---
-# **Awards**
-[A1] Best Paper Award   
-**Juhong Park**, Johnny Rhe, and Jong Hwan Ko   
-Korean Artificial Intelligence Association (CKAIA), 2023.
 
 # **Publications**
 ### **Conference Papers**  
