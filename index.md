@@ -18,8 +18,3 @@ SungKyunKwan University (2012-2015)
 ## Samsung Electronics
 - Memory devision
 - DRAM Quality Assurance (QA) Group
-
-# **Awards**
-## [A1] Best Paper Award   
-**Juhong Park**, Johnny Rhe, and Jong Hwan Ko   
-Korean Artificial Intelligence Association (CKAIA), 2023.
