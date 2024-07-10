@@ -13,9 +13,9 @@ My research interests are:
 
 # **Education**
 **Ph.D. in Electrical and Computer Engineering**   
-SungKyunKwan University (2023-Present)   
+SungKyunKwan University, Suwon, S.Korea (2023-Present)   
 **B.S. in Electronic and Electrical Engineering**   
-SungKyunKwan University (2012-2015)
+SungKyunKwan University, Suwon, S.Korea (2012-2015)
 
 # **Experience**
 **Samsung Electronics**   
