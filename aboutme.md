@@ -15,7 +15,7 @@ title: Research Works
 ### **Conference Papers**  
 [C2] C-AFA: A Conditionally Approximate Full Adder for Efficient DNN Inference in CIM Arrays  
 **Juhong Park**, and Jong Hwan Ko  
-International SoC Design Conference (ISOCC), 2024.  
+*International SoC Design Conference (ISOCC), 2024.*    
 [C1] KARS: Kernel-Grouping Aided Row-Skipping for SDK-based Weight Compression in PIM Arrays   
 **Juhong Park**, Johnny Rhe, and Jong Hwan Ko  
-IEEE International Symposium on Circuits and Systems (ISCAS), 2024.
+*IEEE International Symposium on Circuits and Systems (ISCAS), 2024.*  
