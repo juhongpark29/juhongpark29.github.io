@@ -3,8 +3,7 @@ layout: page
 title: Research Works
 ---
 
-# **Awards**
-# **Awards**
+# **Awards**  
 [A2] Best Paper Award
 **Juhong Park**, and Jong Hwan Ko   
 The 31st Korean Conference on Semiconductors (KCS 2024), 2024.
@@ -13,8 +12,8 @@ The 31st Korean Conference on Semiconductors (KCS 2024), 2024.
 **Juhong Park**, Johnny Rhe, and Jong Hwan Ko   
 Korean Artificial Intelligence Association (CKAIA), 2023.
 
-# **Publications**
-### **Conference Papers**
+# **Publications**  
+### **Conference Papers**  
 [C2] C-AFA: A Conditionally Approximate Full Adder for Efficient DNN Inference in CIM Arrays  
 **Juhong Park**, and Jong Hwan Ko  
 International SoC Design Conference (ISOCC), 2024.
