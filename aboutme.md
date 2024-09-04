@@ -6,11 +6,11 @@ title: Research Works
 # **Awards**  
 [A2] Best Paper Award  
 **Juhong Park**, and Jong Hwan Ko   
-The 31st Korean Conference on Semiconductors (KCS 2024), 2024.
+The 31st Korean Conference on Semiconductors (KCS), 2024.
 
 [A1] Best Paper Award (Top award)  
 **Juhong Park**, Johnny Rhe, and Jong Hwan Ko   
-Korean Artificial Intelligence Association (CKAIA), 2023.
+Korean Artificial Intelligence Association (KAIA), 2023.
 
 # **Publications**  
 ### **Conference Papers**  
