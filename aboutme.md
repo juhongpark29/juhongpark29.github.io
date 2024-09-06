@@ -13,6 +13,9 @@ _The 31st Korean Conference on Semiconductors (KCS), 2024._
 
 # **Publications**  
 ### **Conference Papers**  
+[C3] Fully Approximate Computing for Efficient Multi-bit DNN Inference in CIM Arrays
+**Juhong Park**, and Jong Hwan Ko  
+*International Conference On Consumer Electronics (ICCE) Asia, 2024.*
 [C2] C-AFA: A Conditionally Approximate Full Adder for Efficient DNN Inference in CIM Arrays  
 **Juhong Park**, and Jong Hwan Ko  
 *International SoC Design Conference (ISOCC), 2024.*    
